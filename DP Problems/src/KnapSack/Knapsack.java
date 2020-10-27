@@ -246,3 +246,4 @@ class Knapsack {
     return dp[capacity];
   }
 }
+
